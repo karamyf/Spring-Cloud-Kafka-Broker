@@ -9,3 +9,5 @@
 ## Topic - Consumer/Producer
 ![image](https://github.com/karamyf/Spring-Cloud-Kafka-Broker/assets/91606912/05e0aead-a63f-46cb-a650-6bdbb581ca5d)
 
+## Default JSON Serialization
+![image](https://github.com/karamyf/Spring-Cloud-Kafka-Broker/assets/91606912/74d2f37a-1bcd-4f36-873f-d150087d790b)
