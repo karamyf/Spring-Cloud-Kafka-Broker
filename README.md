@@ -20,7 +20,7 @@ Kafka is a distributed streaming platform designed to build real-time pipelines 
 
 ### 📫 Topic - Consumer/Producer
 
-A Kafka Topic is a stream of records ("/orders", "/user-signups"). You can think of a Topic as a feed name. A topic has a Log which is the topic’s storage on disk.
+A Kafka Topic is a stream of records. You can think of a Topic as a feed name. A topic has a Log which is the topic’s storage on disk.
 
 ![image](https://github.com/karamyf/Spring-Cloud-Kafka-Broker/assets/91606912/05e0aead-a63f-46cb-a650-6bdbb581ca5d)
 
