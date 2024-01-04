@@ -18,3 +18,25 @@
 
 ## Sending Messages by Supplier
 ![cmd_YWPuYbUPuU](https://github.com/karamyf/Spring-Cloud-Kafka-Broker/assets/91606912/b73aa0cb-a43e-49ef-9c9d-d5bdb832039e)
+
+# Real Time (Stream) Processing - Using Kafka Streams
+## Function that receives input stream, process it, and produce an output stream
+
+command : start bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic R4 --property print.key=true --property print.value=true --property key.deserializer=org.apache.kafka.common.serialization.StringDeserializer --property value.deserializer=org.apache.kafka.common.serialization.StringDeserializer
+
+## Statistic about number of visitors each 100ms
+![image](https://github.com/karamyf/Spring-Cloud-Kafka-Broker/assets/91606912/fe464a6b-a031-4a61-beff-f36ec1866226)
+
+## Data from Store (number of page, number of visits)
+![image](https://github.com/karamyf/Spring-Cloud-Kafka-Broker/assets/91606912/5e7b4d96-90e5-4735-b9b2-46f17f4ef009)
+
+## Visual Representation using SmoothieJS
+![image](https://github.com/karamyf/Spring-Cloud-Kafka-Broker/assets/91606912/1b716314-b84c-48da-8879-a6fbd6cc22bd)
+
+
+
+
+
+
+
+
